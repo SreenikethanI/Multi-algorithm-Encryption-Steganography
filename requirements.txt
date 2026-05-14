@@ -1,7 +1,7 @@
-numpy
-soundfile
-librosa
-pycryptodome
-reedsolo
+numpy==2.2.5
+soundfile==0.13.1
+librosa==0.11.0
+pycryptodome==3.22.0
+reedsolo==1.7.0
 
-streamlit
+streamlit==1.45.1
