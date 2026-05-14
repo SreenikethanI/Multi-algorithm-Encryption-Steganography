@@ -1,0 +1,7 @@
+numpy
+soundfile
+librosa
+pycryptodome
+reedsolo
+
+streamlit
