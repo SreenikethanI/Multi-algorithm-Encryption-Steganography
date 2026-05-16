@@ -107,6 +107,8 @@ tab1, tab2 = st.tabs([":material/encrypted_add_circle: Encode", ":material/encry
 
 #region Tab 1: Encode
 with tab1:
+    st.write("[Click here](https://github.com/SreenikethanI/Multi-algorithm-Encryption-Steganography/tree/main/demo%20samples) to download a sample cover audio, for you to try out.")
+
     cover_audio = st.file_uploader("Upload cover audio (.wav only):", type=["wav"], key="cover")
     secret_text = st.text_area("Enter payload to obfuscate:")
     password = st.text_input("Encryption key / Password:", type="password", key="pass_embed")

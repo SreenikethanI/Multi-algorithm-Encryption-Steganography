@@ -6,7 +6,11 @@ A novel algorithm to hide payload information in an audio file, while also
 securing its contents, using multi-algorithm encryption, XOR-based LSB
 embedding, and Phase Coding.
 
-[Click here](https://multi-algo-steganography.streamlit.app) for an interactive front-end demo.
+The "[demo samples](demo%20samples/)" folder contains a sample audio file, which
+can be used to test the algorithm.
+
+[Click here](https://multi-algo-steganography.streamlit.app) for an interactive
+front-end demo.
 
 # **Results**
 
